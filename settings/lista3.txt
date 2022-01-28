@@ -1,0 +1,5 @@
+List3 which cointains non-private profiles that you want to download.
+One account name per line, starting from 4th one.
+__________________________________
+proto.moon
+IG_Account_that_I_want_to_download2
